@@ -61,16 +61,4 @@ A secure document delivery platform that combines AES-256 encryption, image steg
 
 ---
 
-## Connect
-
-**Email:** shashiuppununthala@gmail.com
-
-**LinkedIn:** https://linkedin.com/in/your-profile
-
-**Portfolio:** https://your-portfolio.com
-
-**GitHub:** https://github.com/your-username
-
----
-
 > *Building secure, scalable, and impactful software through continuous learning and practical innovation.*
