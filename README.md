@@ -12,46 +12,13 @@ I enjoy designing and developing software that combines performance, security, a
 
 ## Technical Skills
 
-### Languages
-- Python
-- Java
-- C
-- SQL
-
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Vite
-
-### Backend
-- FastAPI
-- Node.js
-- Express.js
-
-### Databases
-- MongoDB
-- MySQL
-- IPFS
-
-### AI & Security
-- PyTorch
-- OpenCV
-- AES Encryption
-- Steganography
-
-### Blockchain
-- Algorand
-- PyTeal Smart Contracts
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Vercel
-- VS Code
-
----
+**Languages:** Python, Java, C, SQL 
+**Frontend:** React.js, Next.js, Tailwind CSS, Vite 
+**Backend:** FastAPI, Node.js, Express.js 
+**Databases:** MongoDB, MySQL, IPFS 
+**AI & Security:** PyTorch, OpenCV, AES Encryption, Steganography 
+**Blockchain:** Algorand, PyTeal Smart Contracts 
+**Tools:** Git, GitHub, Postman, Vercel, VS Code
 
 ## Featured Projects
 
