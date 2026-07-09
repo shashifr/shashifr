@@ -1,4 +1,4 @@
-# Shashi Kumar
+# U Shashi Kumar
 
 Final-year Computer Science and Engineering student with a strong interest in building scalable software systems, secure applications, and AI-powered solutions. Experienced in full-stack development, blockchain technologies, and applied machine learning, with a focus on creating practical products that solve real-world problems.
 
@@ -12,26 +12,19 @@ I enjoy designing and developing software that combines performance, security, a
 
 ## Technical Skills
 
-**Languages**  
-Python, Java, C, SQL
+**Languages**  : Python, Java, C, SQL
 
-**Frontend**  
-React.js, Next.js, Tailwind CSS, Vite
+**Frontend**  : React.js, Next.js, Tailwind CSS, Vite
 
-**Backend**  
-FastAPI, Node.js, Express.js
+**Backend**  : FastAPI, Node.js, Express.js
 
-**Databases**  
-MongoDB, MySQL, IPFS
+**Databases**  : MongoDB, MySQL, IPFS
 
-**AI & Security**  
-PyTorch, OpenCV, AES Encryption, Steganography
+**AI & Security**  : PyTorch, OpenCV, AES Encryption, Steganography
 
-**Blockchain**  
-Algorand, PyTeal Smart Contracts
+**Blockchain**  : Algorand, PyTeal Smart Contracts
 
-**Tools**  
-Git, GitHub, Postman, Vercel, VS Code
+**Tools**  : Git, GitHub, Postman, Vercel, VS Code
 
 ## Featured Projects
 
