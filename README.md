@@ -1,26 +1,16 @@
-# Hi there 👋, I'm Shashi Kumar
+# Shashi Kumar
 
-<div align="center">
-
-💻 Software Developer • ⛓️ Blockchain Enthusiast • Athlete
-
-Building secure, scalable and impactful software with modern technologies.
-
-</div>
+Final-year Computer Science and Engineering student with a strong interest in building scalable software systems, secure applications, and AI-powered solutions. Experienced in full-stack development, blockchain technologies, and applied machine learning, with a focus on creating practical products that solve real-world problems.
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 Final-year Computer Science & Engineering Student
-- 💻 Passionate about Full Stack Development, AI and Blockchain
-- 🔐 Interested in Cybersecurity, Steganography and Secure Systems
-- 🌱 Currently exploring AI Agents, Distributed Systems and Cloud
-- ⚡ Love turning ambitious ideas into production-ready applications
+I enjoy designing and developing software that combines performance, security, and usability. My interests span across full-stack web development, artificial intelligence, blockchain, and cybersecurity. I believe in writing clean, maintainable code and continuously learning new technologies through projects, hackathons, and open-source contributions.
 
 ---
 
-## 🛠 Tech Stack
+## Technical Skills
 
 ### Languages
 - Python
@@ -44,15 +34,15 @@ Building secure, scalable and impactful software with modern technologies.
 - MySQL
 - IPFS
 
-### Blockchain
-- Algorand
-- PyTeal Smart Contracts
-
 ### AI & Security
 - PyTorch
 - OpenCV
 - AES Encryption
 - Steganography
+
+### Blockchain
+- Algorand
+- PyTeal Smart Contracts
 
 ### Tools
 - Git
@@ -63,73 +53,51 @@ Building secure, scalable and impactful software with modern technologies.
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🔐 StegXtreme
-Advanced Steganography Platform
+### StegXtreme
+An advanced steganography platform that securely embeds encrypted data into images, audio, and video while supporting covert communication tunnels. Integrated deep learning models for neural carrier hiding, FastAPI WebSockets for live telemetry, and Algorand smart contracts for immutable forensic verification.
 
-- Hide encrypted payloads inside images, audio and video
-- Covert DNS, ICMP and HTTP communication tunnels
-- PyTorch powered neural steganography
-- FastAPI WebSockets
-- Algorand forensic verification
-
-**Tech Stack**
-
-React • FastAPI • PyTorch • Algorand • WebSockets
+**Technologies:** React, FastAPI, PyTorch, Algorand, WebSockets
 
 ---
 
-## 🔒 StegaChain
-Hybrid Secure Document Delivery System
+### StegaChain
+A secure document delivery platform that combines AES-256 encryption, image steganography, decentralized storage, and blockchain-based audit trails for secure file sharing.
 
-- AES-256 encrypted document storage
-- OpenCV based LSB Steganography
-- IPFS decentralized storage
-- Algorand Smart Contracts
-- Immutable audit trail
-
-**Tech Stack**
-
-Next.js • FastAPI • OpenCV • IPFS • Algorand
+**Technologies:** Next.js, FastAPI, OpenCV, IPFS, Algorand
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 Top 10 among **120+ teams** in a 24-Hour National Hackathon
-- 🥈 Second Prize in College Hackathon
-- 🚀 Built secure AI + Blockchain applications from scratch
-- 🎤 Conducted Blockchain workshops and mentored students
-
----
-
-## 📈 Currently Learning
-
-- AI Agents
-- LLM Applications
-- System Design
-- Cloud Computing
-- Advanced Backend Development
+- Top 10 Finalist among 120+ teams in a 24-hour Hackathon
+- Second Prize in a College Hackathon
+- Conducted blockchain workshops and mentored students as Blockchain Club Lead
+- Built multiple AI and blockchain-based applications focused on security and real-world use cases
 
 ---
 
-## 🤝 Let's Connect
+## Current Focus
 
-📧 Email: shashiuppununthala@gmail.com
-
-💼 LinkedIn: *Add your LinkedIn URL here*
-
-🌐 Portfolio: *Add Portfolio URL*
-
-🐙 GitHub: https://github.com/YOUR_USERNAME
+- Artificial Intelligence
+- AI Agents and LLM Applications
+- Full-Stack Development
+- Blockchain Systems
+- Secure Software Engineering
 
 ---
 
-<div align="center">
+## Connect
 
-### "Building software that solves real problems, not just coding for the sake of coding."
+**Email:** shashiuppununthala@gmail.com
 
-⭐ Thanks for visiting my profile!
+**LinkedIn:** https://linkedin.com/in/your-profile
 
-</div>
+**Portfolio:** https://your-portfolio.com
+
+**GitHub:** https://github.com/your-username
+
+---
+
+> *Building secure, scalable, and impactful software through continuous learning and practical innovation.*
