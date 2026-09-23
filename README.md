@@ -12,15 +12,13 @@ I enjoy designing and developing software that combines performance, security, a
 
 ## Technical Skills
 
-**Languages**  : Python, Java, C, SQL
+**Languages**  : Python, Java, C, SQL.
 
-**Frontend**  : React.js, Next.js, Tailwind CSS, Vite
+**Frontend**  : React.js, Next.js, CSS, Vite
 
 **Backend**  : FastAPI, Node.js, Express.js
 
-**Databases**  : MongoDB, MySQL, IPFS
-
-**AI & Security**  : PyTorch, OpenCV, AES Encryption, Steganography
+**Databases**  : PostgreSQL, MySQL, MongoDB.
 
 **Blockchain**  : Algorand, PyTeal Smart Contracts
 
@@ -35,11 +33,12 @@ An advanced steganography platform that securely embeds encrypted data into imag
 
 ---
 
-### StegaChain
-A secure document delivery platform that combines AES-256 encryption, image steganography, decentralized storage, and blockchain-based audit trails for secure file sharing.
+### Digital Wallet & Double-Entry Ledger System
+Architected a double-entry ledger backend ensuring zero financial discrepancy by recording immutable, balanced Debit/Credit journals for every transfer.
 
-**Technologies:** Next.js, FastAPI, OpenCV, IPFS, Algorand
+Prevented race conditions and double-spending across parallel transfers using PostgreSQL row-level locking and deterministic deadlock prevention.
 
+Designed resilient RESTful APIs featuring idempotent request handling, JWT-based stateless authentication, and cloud deployment via Supabase connection pooling and Vercel.
 ---
 
 ## Achievements
